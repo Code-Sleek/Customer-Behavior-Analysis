@@ -76,36 +76,21 @@ The Power BI dashboard includes:
 
 ---
 
-### ✅ Results & Insights
+## ✅ Results & Insights
 
 Key Findings:
 
 👥 Total Customers: 3.9K
-
 💵 Average Purchase Amount: $59.76
-
 ⭐ Average Review Rating: 3.75
 
 Insights:
 
-Clothing generates the highest revenue and sales volume compared to other product categories.
-
-Young Adults are the most active customer group in terms of both revenue and number of sales.
-
-Subscribed customers contribute significantly less than non-subscribed customers, indicating potential to improve the loyalty program.
-
-Shipping preferences are diverse, with opportunities to promote faster shipping methods for higher-value customers.
-
-These insights help identify which customer segments and categories drive business growth and where targeted marketing or retention efforts can yield better results.
-
-
-## ✅ Results & Insights
-
-Key findings from the analysis:
-
-* [Example: Sales peaked in Q3 due to promotional campaigns.]
-* [Example: 25% of customers contribute to 70% of total revenue.]
-* [Example: Employee churn is higher among specific departments.]
+* Clothing generates the highest revenue and sales volume compared to other product categories.
+* Young Adults are the most active customer group in terms of both revenue and number of sales.
+* Subscribed customers contribute significantly less than non-subscribed customers, indicating potential to improve the loyalty program.
+* Shipping preferences are diverse, with opportunities to promote faster shipping methods for higher-value customers.
+* These insights help identify which customer segments and categories drive business growth and where targeted marketing or retention efforts can yield better results.
 
 The results provide actionable insights that can help drive data-driven decisions.
 
