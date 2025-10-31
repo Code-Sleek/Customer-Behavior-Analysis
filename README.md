@@ -76,23 +76,29 @@ The Power BI dashboard includes:
 
 ---
 
-## ✅ Results & Insights
+Perfect 👍 You can easily add your Power BI dashboard image and the key insights to your README.
 
-Key Findings:
+Here’s how to include your uploaded **dashboard image** (`Dashboard.png`) and write a clean, recruiter-friendly **Results & Insights** section:
 
-👥 Total Customers: 3.9K
-💵 Average Purchase Amount: $59.76
-⭐ Average Review Rating: 3.75
+---
 
-Insights:
 
-* Clothing generates the highest revenue and sales volume compared to other product categories.
-* Young Adults are the most active customer group in terms of both revenue and number of sales.
-* Subscribed customers contribute significantly less than non-subscribed customers, indicating potential to improve the loyalty program.
-* Shipping preferences are diverse, with opportunities to promote faster shipping methods for higher-value customers.
-* These insights help identify which customer segments and categories drive business growth and where targeted marketing or retention efforts can yield better results.
+## ✅ **Results & Insights**
 
-The results provide actionable insights that can help drive data-driven decisions.
+**Key Findings:**
+
+* 👥 **Total Customers:** 3.9K
+* 💵 **Average Purchase Amount:** $59.76
+* ⭐ **Average Review Rating:** 3.75
+
+**Insights:**
+
+* **Clothing** generates the highest revenue and sales volume compared to other product categories.
+* **Young Adults** are the most active customer group in terms of both revenue and number of sales.
+* **Subscribed customers** contribute significantly less than non-subscribed customers, indicating potential to improve the loyalty program.
+* **Shipping preferences** are diverse, with opportunities to promote faster shipping methods for higher-value customers.
+
+These insights help identify which customer segments and categories drive business growth and where targeted marketing or retention efforts can yield better results.
 
 ---
 
