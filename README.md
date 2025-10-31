@@ -72,7 +72,7 @@ The Power BI dashboard includes:
 * Trend and category-based visualizations
 * Filters and slicers for interactivity
 
-![Dashboard Preview](image/dashboard.png)
+![Dashboard Preview](image/Dashboard.png)
 
 ---
 
