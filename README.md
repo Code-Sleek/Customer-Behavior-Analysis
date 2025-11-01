@@ -14,8 +14,8 @@ The main goal of this project is to uncover valuable insights from the dataset a
 * **Format:** CSV
 * **Size:** 3900 rows & 18 columns
 * **Description:**
-  The dataset contains information about [customer behavior, sales transactions, or employee performance].
-  Each record includes fields such as [Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchases Payment method, Frequency of Purchase.].
+  The dataset contains information about customer behavior, sales transactions, or employee performance.
+  Each record includes fields such as Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchases Payment method, Frequency of Purchase.
 
 ---
 
