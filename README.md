@@ -78,12 +78,6 @@ The Power BI dashboard includes:
 
 ---
 
-Perfect 👍 You can easily add your Power BI dashboard image and the key insights to your README.
-
-Here’s how to include your uploaded **dashboard image** (`Dashboard.png`) and write a clean, recruiter-friendly **Results & Insights** section:
-
----
-
 
 ## ✅ **Results & Insights**
 
