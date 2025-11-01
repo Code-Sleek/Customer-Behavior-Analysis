@@ -1,4 +1,4 @@
-# 🧠 Customer Behavior - Data Analytics Project
+# 🧠 Customer Shopping Behavior - Data Analytics Project
 ---
 ## 📄 Overview
 
